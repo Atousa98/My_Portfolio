@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Atousa98/My_Portfolio/static/css/main.866412af.css",
+    "main.js": "/Atousa98/My_Portfolio/static/js/main.bc4d1943.js",
+    "static/js/3.0b699837.chunk.js": "/Atousa98/My_Portfolio/static/js/3.0b699837.chunk.js",
+    "static/media/LongDrive2.mp4": "/Atousa98/My_Portfolio/static/media/LongDrive2.41b7cc8e7766db55fb15.mp4",
+    "static/media/MultiplayerShooter.mp4": "/Atousa98/My_Portfolio/static/media/MultiplayerShooter.c7fc50d7612f36658be8.mp4",
+    "static/media/LongDrive.mp4": "/Atousa98/My_Portfolio/static/media/LongDrive.7d71f602a13d272c0229.mp4",
+    "static/media/FishingSimulator.mp4": "/Atousa98/My_Portfolio/static/media/FishingSimulator.35b57f7b4b7a2751dbd4.mp4",
+    "static/media/Blender1.mp4": "/Atousa98/My_Portfolio/static/media/Blender1.e1706fb56047070fa4b9.mp4",
+    "static/media/AFterEffect.mp4": "/Atousa98/My_Portfolio/static/media/AFterEffect.768f94acbbcf5331ddfb.mp4",
+    "static/media/Blender2.mp4": "/Atousa98/My_Portfolio/static/media/Blender2.d491d427554d48e90ac8.mp4",
+    "static/media/CV - Atousa Garousian.pdf": "/Atousa98/My_Portfolio/static/media/CV - Atousa Garousian.20b804f34ac8e89fca31.pdf",
+    "static/media/profile.jpg": "/Atousa98/My_Portfolio/static/media/profile.19bc05c5eeebc1584f56.jpg",
+    "index.html": "/Atousa98/My_Portfolio/index.html",
+    "main.866412af.css.map": "/Atousa98/My_Portfolio/static/css/main.866412af.css.map",
+    "main.bc4d1943.js.map": "/Atousa98/My_Portfolio/static/js/main.bc4d1943.js.map",
+    "3.0b699837.chunk.js.map": "/Atousa98/My_Portfolio/static/js/3.0b699837.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.866412af.css",
+    "static/js/main.bc4d1943.js"
+  ]
+}
