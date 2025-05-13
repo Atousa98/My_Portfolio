@@ -1,10 +1,10 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/Atousa98/My_Portfolio",
+  "homepage": "https://Atousa98.github.io/My_Portfolio",
   "description": "A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!",
-  "repository": "https://github.com/taniyow/react-portfolio",
-  "author": "Atousa Garousian <markcmtan@gmail.com>",
+  "repository": "https://github.com/Atousa98/My_Portfolio",
+  "author": "Atousa Garousian <atousa.garousian@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
@@ -24,7 +24,6 @@
     "react-helmet": "^6.1.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^5.0.1",
-    "react-snapshot": "^1.0.4",
     "react-transition-group": "^4.4.1",
     "react-typical": "^0.1.3",
     "sweetalert2": "^11.4.10",
@@ -33,17 +32,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && react-snapshot",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "reactSnapshot": {
-    "exclude": [
-      "/resume"
-    ],
-    "snapshotDelay": 1000
   },
   "eslintConfig": {
     "extends": "react-app"
