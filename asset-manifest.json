@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.866412af.css",
-    "main.js": "/My_Portfolio/static/js/main.d0576701.js",
+    "main.js": "/My_Portfolio/static/js/main.caff81b1.js",
     "static/js/3.0b699837.chunk.js": "/My_Portfolio/static/js/3.0b699837.chunk.js",
     "static/media/CV - Atousa Garousian.pdf": "/My_Portfolio/static/media/CV - Atousa Garousian.20b804f34ac8e89fca31.pdf",
     "static/media/profile.jpg": "/My_Portfolio/static/media/profile.19bc05c5eeebc1584f56.jpg",
     "index.html": "/My_Portfolio/index.html",
     "main.866412af.css.map": "/My_Portfolio/static/css/main.866412af.css.map",
-    "main.d0576701.js.map": "/My_Portfolio/static/js/main.d0576701.js.map",
+    "main.caff81b1.js.map": "/My_Portfolio/static/js/main.caff81b1.js.map",
     "3.0b699837.chunk.js.map": "/My_Portfolio/static/js/3.0b699837.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.866412af.css",
-    "static/js/main.d0576701.js"
+    "static/js/main.caff81b1.js"
   ]
 }
