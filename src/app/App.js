@@ -8,6 +8,10 @@ import { logCredits } from "../utils/logCredits";
 import { Home } from "../pages/Home";
 const PageNotFound = lazy(() => import("../pages/PageNotFound"));
 
+<video controls width="400">
+  <source src="/LongDrive.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 export const App = () => {
     logCredits();
