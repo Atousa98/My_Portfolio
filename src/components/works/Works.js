@@ -48,9 +48,9 @@ const projects = [
     id: 1,
     title: 'LongDrive',
     description: `LongDrive is a semi-autonomous driving simulation built in Unity, based on Austria's real highway network. I co-developed the game systems and created the terrain and environment.`,
-    video: "/assets/LongDrive.mp4",
+    video: "https://github.com/Atousa98/My_Portfolio/releases/download/v1.1/LongDrive.mp4",
     modal: {
-      image: "/LongDrive.jpg",  // Make sure this exists in public/images/
+      image: "https://github.com/Atousa98/My_Portfolio/releases/download/v2.0/LongDrive.jpg",  // Make sure this exists in public/images/
       content: (
         <>
           <p>
@@ -85,9 +85,9 @@ const projects = [
     id: 2,
     title: 'LongDrive: Extended',
     description: `LongDrive: Extended is the finalized version of our semi-autonomous highway driving simulator. It introduces infotainment-based in-car tasks and G29 steering wheel support.`,
-    video: "/assets/LongDrive2.mp4",
+    video: "https://github.com/Atousa98/My_Portfolio/releases/download/v1.2/LongDrive2.mp4",
     modal: {
-      image: "/Extended.jpg", // Replace with your actual modal image if any
+      image: "https://github.com/Atousa98/My_Portfolio/releases/download/v2.1/Extended.jpg", // Replace with your actual modal image if any
       content: (
         <>
           <p>
@@ -120,7 +120,7 @@ const projects = [
     id: 3,
     title: 'Fishing Simulator', 
     description: `A VR-ready Unity simulation recreating a peaceful fishing experience with natural terrain and immersive audio-visual design.`,
-    video: "/assets/FishingSimulator.mp4",
+    video: "https://github.com/Atousa98/My_Portfolio/releases/download/v1.6/FishingSimulator.mp4",
     modal: {
       content: (
         <>
@@ -146,9 +146,9 @@ const projects = [
     id: 4,
     title: 'Recoil Rumble',
     description: `Recoil Rumble is a fast-paced, retro-style multiplayer FPS with powerful knockback mechanics and stylized visuals.`,
-    video: "/assets/MultiplayerShooter.mp4",
+    video: "https://github.com/Atousa98/My_Portfolio/releases/download/v1.5/MultiplayerShooter.mp4",
     modal: {
-      image: "/Recoil.jpg", // Replace with your actual modal image if any
+      image: "https://github.com/Atousa98/My_Portfolio/releases/download/v2.3/Recoil.jpg", // Replace with your actual modal image if any
       content: (
         <>
           <p>
@@ -181,22 +181,22 @@ const projects = [
     title: 'Blender Project 1', 
     description: `Designed and modeled a detailed interior filled with books, furniture, and decor. The camera rotates around the space to reveal different angles, emphasizing depth and layout. Applied custom textures to all assets, including wood, fabric, and paper materials. Focused on composition, lighting, and scene storytelling through asset placement and animation.`,
     alter: 'Blender Project 1',
-    video: "/assets/Blender2.mp4"
+    video: "https://github.com/Atousa98/My_Portfolio/releases/download/v1.4/Blender2.mp4"
   },
   { 
     id: 6,
     title: 'Blender Project 2', 
     description: `Created a detailed snow globe scene featuring a snowy cabin, Christmas tree, and snowman. Modeled all assets from scratch, applied custom shaders, and set up lighting for a cozy winter feel. Used rigid body physics to animate falling snowballs and a collapsing tree when the globe rotates. The project involved keyframe animation, material setup, and physics simulation within Blender.`,
     alter: 'Blender Project 2',
-    video: "/assets/Blender1.mp4"
+    video: "https://github.com/Atousa98/My_Portfolio/releases/download/v1.3/Blender1.mp4"
   },
   {
     id: 7,
     title: 'Logo Animation',
     description: `Animated logo and social content for a company’s branding, covering motion graphics, reels, and Instagram strategy.`,
-    video: "/assets/AfterEffect.mp4",
+    video: "https://github.com/Atousa98/My_Portfolio/releases/download/v1.0/AfterEffect.mp4",
     modal: {
-      image: "/Motion.jpg", // Add this image to your public folder
+      image: "https://github.com/Atousa98/My_Portfolio/releases/download/v2.2/Motion.jpg", // Add this image to your public folder
       content: (
         <>
           <p>
