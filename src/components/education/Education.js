@@ -16,7 +16,7 @@ const educationData = [
   {
     name: "FH Upper Austria",
     year: "2023 – Present",
-    description: "Master's in Interactive Media. Focus on VR/MR/MR, Game Development, and 3D Design."
+    description: "Master's in Interactive Media. Focus on VR/AR/MR, Game Development, and 3D Design."
   },
   {
     name: "Hamedan University of Technology",
