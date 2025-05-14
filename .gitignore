@@ -40,4 +40,5 @@ build/
 *.zip
 .DS_Store
 npm install --save-dev gh-pages
+/public/videos/
 

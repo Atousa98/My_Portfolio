@@ -4,13 +4,13 @@ import { makeStyles } from "@material-ui/core/styles";
 import { TextDecrypt } from "../content/TextDecrypt";
 import './Works.css';
 
-import LongDrive from '../../assets/recentprojects/LongDrive.mp4';
-import LongDriveSecond from '../../assets/recentprojects/LongDrive2.mp4';
-import Blender from '../../assets/recentprojects/Blender1.mp4';
-import BlenderSecond from '../../assets/recentprojects/Blender2.mp4';
-import Fishing from '../../assets/recentprojects/FishingSimulator.mp4';
-import Shooter from '../../assets/recentprojects/MultiplayerShooter.mp4';
-import AfterEffect from '../../assets/recentprojects/AFterEffect.mp4';
+// import LongDrive from '../../assets/recentprojects/LongDrive.mp4';
+// import LongDriveSecond from '../../assets/recentprojects/LongDrive2.mp4';
+// import Blender from '../../assets/recentprojects/Blender1.mp4';
+// import BlenderSecond from '../../assets/recentprojects/Blender2.mp4';
+// import Fishing from '../../assets/recentprojects/FishingSimulator.mp4';
+// import Shooter from '../../assets/recentprojects/MultiplayerShooter.mp4';
+// import AfterEffect from '../../assets/recentprojects/AFterEffect.mp4';
 
 const useStyles = makeStyles(() => ({
   main: {
@@ -48,7 +48,7 @@ const projects = [
     id: 1,
     title: 'LongDrive',
     description: `LongDrive is a semi-autonomous driving simulation built in Unity, based on Austria's real highway network. I co-developed the game systems and created the terrain and environment.`,
-    video: LongDrive,
+    video: "/videos/LongDrive.mp4",
     modal: {
       image: "/LongDrive.jpg",  // Make sure this exists in public/images/
       content: (
@@ -85,7 +85,7 @@ const projects = [
     id: 2,
     title: 'LongDrive: Extended',
     description: `LongDrive: Extended is the finalized version of our semi-autonomous highway driving simulator. It introduces infotainment-based in-car tasks and G29 steering wheel support.`,
-    video: LongDriveSecond,
+    video: "/videos/LongDrive2.mp4",
     modal: {
       image: "/Extended.jpg", // Replace with your actual modal image if any
       content: (
@@ -120,7 +120,7 @@ const projects = [
     id: 3,
     title: 'Fishing Simulator', 
     description: `A VR-ready Unity simulation recreating a peaceful fishing experience with natural terrain and immersive audio-visual design.`,
-    video: Fishing,
+    video: "/videos/FishingSimulator.mp4",
     modal: {
       content: (
         <>
@@ -146,7 +146,7 @@ const projects = [
     id: 4,
     title: 'Recoil Rumble',
     description: `Recoil Rumble is a fast-paced, retro-style multiplayer FPS with powerful knockback mechanics and stylized visuals.`,
-    video: Shooter,
+    video: "/videos/MultiplayerShooter.mp4",
     modal: {
       image: "/Recoil.jpg", // Replace with your actual modal image if any
       content: (
@@ -181,20 +181,20 @@ const projects = [
     title: 'Blender Project 1', 
     description: `Designed and modeled a detailed interior filled with books, furniture, and decor. The camera rotates around the space to reveal different angles, emphasizing depth and layout. Applied custom textures to all assets, including wood, fabric, and paper materials. Focused on composition, lighting, and scene storytelling through asset placement and animation.`,
     alter: 'Blender Project 1',
-    video: `${BlenderSecond}`
+    video: "/videos/Blender2.mp4"
   },
   { 
     id: 6,
     title: 'Blender Project 2', 
     description: `Created a detailed snow globe scene featuring a snowy cabin, Christmas tree, and snowman. Modeled all assets from scratch, applied custom shaders, and set up lighting for a cozy winter feel. Used rigid body physics to animate falling snowballs and a collapsing tree when the globe rotates. The project involved keyframe animation, material setup, and physics simulation within Blender.`,
     alter: 'Blender Project 2',
-    video: `${Blender}`,
+    video: "/videos/Blender1.mp4"
   },
   {
     id: 7,
     title: 'Logo Animation',
     description: `Animated logo and social content for a company’s branding, covering motion graphics, reels, and Instagram strategy.`,
-    video: AfterEffect,
+    video: "/videos/AFterEffect.mp4",
     modal: {
       image: "/Motion.jpg", // Add this image to your public folder
       content: (
