@@ -1,16 +1,16 @@
 {
     "basics": {
         "name": "Atousa Garousian",
-        "label": "game developer & 3D Modeler",
+        "label": "Game Developer & 3D Modeler",
         "email": "atousa.garousian@gmail.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
         "job1": "Game Developer",
         "job2": "3D Modeler",
-        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "description": "Hello! I'm Atousa! Your game development enthusiast. Always down for something new and challenging!",
         "summary": "based in Hagenberg, Austria",
-        "keywords": "personal,website,portfolio,template,kit,atousa,garousian,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "keywords": "personal,website,portfolio,template,kit,atousa,garousian,github,linkedin,google,gitlab,telegram,material",
         "url": "https://taniyow.vercel.app/",
         "location": {
             "address": "XX XXXXXstreet",
@@ -99,23 +99,23 @@
     ],
     "skills": [
         {
-            "name": "Web Development",
+            "name": "Game Development",
             "level": "Master",
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["Blender", "Unity", "XR"]
         }
     ],
     "languages": [
         {
             "language": "German",
-            "fluency": "Native speaker"
+            "fluency": "Good knowledge"
         },
         {
             "language": "English",
             "fluency": "Fluent speaker"
         },
         {
-            "language": "French",
-            "fluency": "Good knowledge"
+            "language": "Persian",
+            "fluency": "Native Speaker"
         }
     ],
     "interests": [
