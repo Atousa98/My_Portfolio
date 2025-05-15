@@ -136,7 +136,7 @@ const projects = [
           <p>
             The simulation was designed with accessibility in mind, allowing seamless transitions between VR and screen-based setups for demonstrations.
           </p>
-          <p><strong>Tech stack:</strong> Unity HDRP, VR Toolkit (XR Interaction Toolkit), baked lighting, water shaders, and native Unity terrain tools.</p>
+          <p><strong>Tech stack:</strong> Unity HDRP, VR Toolkit (XR Interaction Toolkit), baked lighting, water shaders, and Gaia procedural world.</p>
           <p>🔗 <a href="https://github.com/reapphil/HGB_FishingSimulator" target="_blank" rel="noopener noreferrer">View on GitHub</a></p>
         </>
       )
